@@ -1,0 +1,11 @@
+{
+  "name": "github-notify-server",
+  "version": "0.1.0",
+  "dependencies": {
+    "micro": "latest",
+    "socket.io": "^1.7.2"
+  },
+  "scripts": {
+    "start": "node --harmony-async-await index"
+  }
+}
